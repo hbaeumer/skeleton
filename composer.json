@@ -1,0 +1,26 @@
+{
+  "name": "hbaeumer/skeleton",
+  "description": "Skeleton application",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://www.hbaeumer.de",
+  "support": {
+    "source": "https://github.com/hbaeumer/skeleton",
+    "issues": "https://github.com/hbaeumer/skeleton/issues",
+    "wiki": "https://github.com/hbaeumer/skeleton/wiki"
+  },
+  "authors": [
+    {
+      "name": "Heiner Baeumer",
+      "email": "mail@hbaeumer.de"
+    }
+  ],
+  "autoload": {
+
+  },
+  "autoload-dev": {
+
+  },
+  "require": {},
+  "require-dev": {}
+}
